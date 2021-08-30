@@ -1,0 +1,6 @@
+insert into public.aluno(id, nome, cpf) 
+	values (1, 'João', '234'),
+	(2, 'Lucas', '567'),
+	(3, 'Maria', '897')
+
+select * from aluno;
